@@ -1,4 +1,4 @@
-### _Welcome to `Brendan Devlin's resume`_ ![Image of Me](https://github.com/Donttestturing/resume/blob/master/meCloseUp.png)
+### _Welcome to `Brendan Devlin's resume`_ [Image of Me](https://github.com/Donttestturing/resume/blob/master/meCloseUp.png)
 
 **Education**
 - Working on a B.S. in Computer science
