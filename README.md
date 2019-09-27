@@ -25,4 +25,4 @@
 - I have a goal in computer science to be able to create a restoration/recoloring program for old photographs
 
 **C.S. Projects**
-- Extensive database program for a library system using Java, complete with a user-interface. 
+- Extensive database program for a library system using Java, complete with a user-interface 
