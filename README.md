@@ -6,6 +6,7 @@
 
 
 **Skills**
+- **I have mild experience with javascript and python, additionally, a little more experience with Java**
 - **Strives for a collaborative work enviroment**
 - **Driven**
 - **Prompt and timely**
