@@ -1,4 +1,5 @@
-### _Welcome to `Brendan Devlin's resume`_ ![Photo of me](meCloseUp.png)
+### _Welcome to `Brendan Devlin's resume`_ 
+
 
   **_I am a student at MiraCosta College. I am an aspiring Software engineer and Full-Stack Devoloper. I value being engaged in my career, and Computer Science is an excellent problem solving field that necessitates engagement. I enjoy the convivial attitude and camaraderie working in a team while tackling tough problems, playing team sports helped to impart those concepts to me._**
 
