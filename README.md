@@ -18,3 +18,6 @@
 **Additional Info**
 - `I played Ice Hockey pretty seriously in High School`
 - `I love and appreciate learning, and I hope that will never stop`
+
+#**C.S. Goals**
+- I have a goal in computer science to be able to create a restoration/recoloring program for old photographs
