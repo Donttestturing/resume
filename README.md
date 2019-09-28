@@ -3,7 +3,7 @@
 
 
 **Education**
-- B.S. in Computer science,(in progress) currently attending MiraCosta College
+- B.S. in Computer science, (in progress) currently attending MiraCosta College
 - Currently have a H.S. diploma
 
 **Skills**
