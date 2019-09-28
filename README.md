@@ -3,7 +3,7 @@
 
 
 **Education**
-- Working on a B.S. in Computer science, currently attending MiraCosta College
+- B.S. in Computer science,(in progress) currently attending MiraCosta College
 - Currently have a H.S. diploma
 
 **Skills**
@@ -13,15 +13,16 @@
 4. **Prompt and timely**
 
 **Work experience**
-- I previously worked as a subcontractor
-- I also worked for Pizza-Hut before that
+- Worked as a Customer Service Representative at Pizza-Hut (2009-2011)
+- Worked as a pool cleaner for Kressin Pool Cleaning (2011-2014)
+- Worked as a subcontractor for Kressin Trust (2014-2018)
 
 **Additional Info**
-- `I played Ice Hockey pretty seriously in High School, team-building is a large focus on mine`
+- `Assistant-Captain of UTC Jaguars, (Ice Hockey Team) team-building is a huge focus`
 - `I love and appreciate learning, and I hope that will never stop`
 
 **C.S. Goals**
-- I have a goal in computer science to be able to create a restoration/recoloring program for old photographs
+- Goal in computer science to create a restoration/recoloring program for old photographs
 
 **C.S. Projects**
 - Extensive database program for a library system using Java, complete with a user-interface 
